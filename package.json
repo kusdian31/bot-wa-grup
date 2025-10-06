@@ -1,0 +1,14 @@
+{
+  "name": "RELAWAN.RT07.Bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp untuk grup Warga RT07",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
